@@ -1,10 +1,13 @@
-.carousel{margin-bottom:4rem}.carousel-caption{bottom:10rem;z-index:10}.carousel-item{height:40rem}.carousel-item>img{position:absolute;top:0;left:0;min-width:100%;height:40rem}
+.carousel{margin-bottom:4rem}.carousel-caption{bottom:10rem;z-index:10}.carousel-item{height:40rem}.carousel-item>img{position:absolute;top:0;left:0;min-width:100%;height:40rem; object-fit: cover;}
 
 .bb-nav{background-color: #e0ece4;}
 
 .bb-icon{color:#66bfbf}
 
-.bb-shoutout{background-color: #056674; color: #e0ece4; padding: 8rem 0;}
+.bb-shoutout{background-image: url('img/app.jpg'); background-position: center; color: #e0ece4; padding: 8rem 0;}
+
+.saxon-logo img{width: 200px; height: auto;}
+.footer-logo img{width: 30vw; height: auto; margin: 0 auto;}
 
 footer{background-color: #66bfbf; padding: 8rem 0;}
 .copywrite{background-color: #056674; color: #e0ece4; padding: 2rem 0;}
